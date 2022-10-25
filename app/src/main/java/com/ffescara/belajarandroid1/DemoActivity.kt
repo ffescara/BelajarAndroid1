@@ -37,7 +37,7 @@ class DemoActivity : ComponentActivity() {
                     .fillMaxSize()
                     .background(Color.Red)
             ) {
-                Image(painter = painterResource(id = R.drawable.portrait_zoro), contentDescription = "Gambar Sana")
+                Image(painter = painterResource(id = R.drawable.portrait_zoro), contentDescription = "Gambar Zoro")
                 Surface(
                     color = Color.Yellow,
                     modifier = Modifier.fillMaxWidth()
