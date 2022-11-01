@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">Belajar Android1</string>
+    <string name="Sana">SANA</string>
+    <string name="Momo">MOMO</string>
+    <string name="Tzuyu">TZUYU</string>
+    <string name="Jihyo">JIHYO</string>
+    <string name="Nayeon">NAYEON</string>
+    <string name="Dahyun">DAHYUN</string>
+    <string name="Twice">TWICE</string>
 </resources>
